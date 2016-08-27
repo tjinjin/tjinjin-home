@@ -3,7 +3,7 @@
   "name": "my-project",
   "homepage": "http://tjinjin.github.io",
   "twitter": "cross_black777",
-  "repository": "https://github.com/tjinjin/tjinjin.github.io",
+  "repository": "https://github.com/tjinjin/tjinjin-home",
   "scripts": {
     "lint:js": "eslint --ignore-path .gitignore --fix .",
     "lint:css": "stylelint \"web_modules/**/*.css\"",
@@ -12,6 +12,7 @@
     "build": "phenomic build",
     "pretest": "npm run lint",
     "test": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "./scripts/deploy.sh"
   },
   "phenomic": {
