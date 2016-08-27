@@ -5,9 +5,10 @@ import styles from "./index.css"
 import Svg from "react-svg-inline"
 import twitterSvg from "../icons/iconmonstr-twitter-1.svg"
 import gitHubSvg from "../icons/iconmonstr-github-1.svg"
+import hatenaBlogSvg from "../icons/hatenablog-logo.svg"
 
 export default class Header extends Component {
-  
+
   static contextTypes = {
     metadata: PropTypes.object.isRequired,
   };
@@ -45,6 +46,15 @@ export default class Header extends Component {
               >
                 <Svg svg={ gitHubSvg } />
                 { "GitHub" }
+              </a>
+            }
+            { pkg.repository &&
+              <a
+                href={ "http://cross-black777.hatenablog.com/" }
+                className={ styles.link }
+              >
+                <Svg svg={ hatenaBlogSvg } />
+                { "Blog" }
               </a>
             }
           </div>
