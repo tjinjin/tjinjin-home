@@ -1,19 +1,13 @@
 ---
-title: Phenomic default boilerplate
+title: tjinjin's profile
 layout: Homepage
 ---
 
-Hi there.
+## Who am I?
+![icon](/assets/tjinjin.png)
 
-Before having fun with Phenomic, be sure to read (or at least pretend to)
-the documentation :
-
-* [Setup](https://phenomic.io/docs/setup/)
-* [Usage](https://phenomic.io/docs/usage/)
-* [FAQ](https://phenomic.io/docs/faq/)
-
-Built with
-<a href="https://facebook.github.io/react/">
-  <img alt="" src="assets/react.svg" width="16" height="16" />
-  React
-</a>.
+* [skills](/posts/skill.md)
+* [readings](/posts/readings.md)
+* [goals](/posts/goals.md)
+* [interests](/posts/interests.md)
+* [likes](/posts/likes.md)
