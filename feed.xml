@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[my-project]]></title><description><![CDATA[my-project]]></description><link>http://tjinjin.github.io/tjinjin-home</link><generator>RSS for Node</generator><lastBuildDate>Sun, 28 Aug 2016 03:03:48 GMT</lastBuildDate><atom:link href="http://tjinjin.github.io/feed.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[Readings list]]></title><description><![CDATA[
+]]></description><link>http://tjinjin.github.io/posts/readings/</link><guid isPermaLink="true">http://tjinjin.github.io/posts/readings/</guid><pubDate>Fri, 26 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[My skill]]></title><description><![CDATA[<h2 id="skill"><a href="#skill" class="phenomic-HeadingAnchor">#</a>skill</h2>
+<ul>
+<li>linux</li>
+<li>consul</li>
+<li>terraform</li>
+</ul>
+]]></description><link>http://tjinjin.github.io/posts/skill/</link><guid isPermaLink="true">http://tjinjin.github.io/posts/skill/</guid><pubDate>Fri, 26 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[likes]]></title><description><![CDATA[
+]]></description><link>http://tjinjin.github.io/posts/likes/</link><guid isPermaLink="true">http://tjinjin.github.io/posts/likes/</guid><pubDate>Fri, 26 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Interests]]></title><description><![CDATA[
+]]></description><link>http://tjinjin.github.io/posts/interests/</link><guid isPermaLink="true">http://tjinjin.github.io/posts/interests/</guid><pubDate>Fri, 26 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[My goals]]></title><description><![CDATA[
+]]></description><link>http://tjinjin.github.io/posts/goals/</link><guid isPermaLink="true">http://tjinjin.github.io/posts/goals/</guid><pubDate>Fri, 26 Aug 2016 00:00:00 GMT</pubDate></item></channel></rss>
